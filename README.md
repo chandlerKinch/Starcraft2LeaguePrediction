@@ -12,4 +12,4 @@
 - [Exploratory Data Analysis](https://github.com/chandlerKinch/StarcraftModeling/blob/main/notebooks/StarcraftEDA.ipynb)
 - [Modeling](https://github.com/chandlerKinch/StarcraftModeling/blob/main/notebooks/StarcraftModeling.ipynb)
 3. Data Sources
-- Data for this project is provdied on the [Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset)
+- Data for this project is provided on the [Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset)
